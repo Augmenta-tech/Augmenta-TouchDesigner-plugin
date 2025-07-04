@@ -5,6 +5,6 @@ New Augmenta native plugin for TouchDesigner supporting
 - Point cloud streaming
 - Zone triggering and control
 
-### How tu use
+### How to use
 [https://docs.augmenta.tech/create-content/touchdesigner/touchdesigner-plugin-(beta)](url)
 
