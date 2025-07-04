@@ -5,6 +5,8 @@ New Augmenta plugin for TouchDesigner supporting
 - Point cloud streaming
 - Zone triggering and control
 
-Warning : This plugin is currently in beta, please send feedback to us : https://augmentatech.notion.site/199653bb205780a69636f50e214f62b6?pvs=105
+### Requirement
+Compatible with Augmenta version 1.5 or newer
 
-or contact us : https://augmenta.tech/contact
+### Warning
+This plugin is currently in beta and provided as it is, please send [feedback](https://augmentatech.notion.site/199653bb205780a69636f50e214f62b6?pvs=105) or [contact](https://augmenta.tech/contact) us !
