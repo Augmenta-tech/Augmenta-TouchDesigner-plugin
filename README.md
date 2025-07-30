@@ -6,5 +6,5 @@ New Augmenta native plugin for TouchDesigner supporting
 - Zone triggering and control
 
 ### How to use
-[https://docs.augmenta.tech/create-content/touchdesigner/touchdesigner-plugin-(beta)](url)
+[https://docs.augmenta.tech/create-content/touchdesigner/touchdesigner-plugin-(beta)](https://docs.augmenta.tech/create-content/touchdesigner/touchdesigner-plugin-(beta))
 
