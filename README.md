@@ -8,4 +8,4 @@ New Augmenta native plugin for TouchDesigner supporting
 ### How to use
 [https://docs.augmenta.tech/create-content/touchdesigner/touchdesigner-plugin-(beta)](https://docs.augmenta.tech/create-content/touchdesigner/touchdesigner-plugin-(beta))
 
-Current versio : beta 0.3
+Current version : beta 0.3
